@@ -1,5 +1,5 @@
 # test
-[![DOI](https://zenodo.org/badge/1246483131.svg)](https://doi.org/10.5281/zenodo.20340733)
+[![DOI](https://zenodo.org/badge/1246483131.svg)](https://doi.org/10.5281/zenodo.20352839)
 
 # EPTS: Elastic Post-Training Sparsity for Efficient Large Language Model Compression
 
