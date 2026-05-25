@@ -5,7 +5,7 @@
 
 ## Overview
 
-![Overview of EPTS](./KDD_files/overview_v2-1.png)
+![Overview of EPTS](overview_v2-1.png)
 Overview of our proposed EPTS. Through block-wise reconstruction, EPTS compensates for performance degradation after pruning by fine-tuning LoRA modules L, while the original model weights remain frozen. The reconstruction process consists of two stages: (1) minimizing reconstruction loss across all sparsity groups simultaneously using Multi-Sparsity Hierarchy LoRA. (2) mixing multiple sparsity features across different sparsity groups by Multi-Sparsity Feature Mixer.
 
 ---
