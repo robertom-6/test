@@ -12,7 +12,7 @@ Overview of our proposed EPTS. Through block-wise reconstruction, EPTS compensat
 
 ## Setup
 
-To run this code, please ensure you have the appropriate environment set up. 
+The complete environment dependencies can be found in requirements.txt.
 
 ## Quick Start
 We provide a streamlined 3-step pipeline to apply the EPTS framework to your Large Language Models.
